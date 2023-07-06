@@ -1,2 +1,1 @@
-My first readme
-My name is Amira 
+My name is Amira, i am a software engineer. 
